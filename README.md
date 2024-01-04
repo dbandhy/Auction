@@ -1,4 +1,4 @@
-## Para abrir el proyecto en VS
+# Para abrir el proyecto en VS
 - En la terminal escribir npm i
 - Luego, escribir npm start
 ## Configuraciones
