@@ -1,6 +1,6 @@
-# Para abrir el proyecto en VS
-- En la terminal escribir npm i
-- Luego, escribir npm start
-# Configuraciones
-- En el archivo package.json se trabajó con nodemon server.js
-- Formó parte de un proyecto realizado para la carrera de Desarrollo Full Stack en coderhouse.
+# To open the project in VS
+- write "npm i" in the shell
+- Them, execute "npm start"
+# setting
+- In package.json the setting is "nodemon server.js"
+- Project done during Coderhouse Full Stack Career.
